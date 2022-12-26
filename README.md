@@ -1,4 +1,5 @@
-# Lead-Scoring-with-Logistic-Regression
+# Lead-Scoring-with-Logistic-Regression[[View Code]](https://nbviewer.org/github/mahahajmeftah/Lead-Scoring-With-Logistic-Regression/blob/main/LogisticRegression.ipynb)
+**The code is available [here](https://nbviewer.org/github/mahahajmeftah/Lead-Scoring-With-Logistic-Regression/blob/main/LogisticRegression.ipynb) or click on [View Code] link above.**
 <p>
 <a align ='center'></a> •
 <a href="#goal">Goal</a> •
